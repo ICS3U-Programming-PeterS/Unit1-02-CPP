@@ -1,3 +1,9 @@
+// Copyright (c) 2022 Peter Sobowale All rights reserved.
+// .
+// Created by: Peter Sobowale
+// Date: Sept 19, 2022
+// It says hello to Ms.Raffin.
+
 #include <iostream>
 
 int main() {
